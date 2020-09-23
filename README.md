@@ -18,7 +18,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | PrDiMP50 (CVPR20)         | 0.598  |  30 (Unkown GPU)  |   [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | LTMU (CVPR20)             | 0.572  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | DiMP50 (ICCV19)           | 0.568  |  43 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-<<<<<<< HEAD
      | Ocean-Online (ECCV20)     | 0.560  |  58 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit)| |
 	 | SiamAttn (CVPR20)         | 0.560  |  45 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | SiamFC++GoogLeNet (AAAI20)| 0.544  |  90 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.06188.pdf)/[Code](https://github.com/MegviiDetection/video_analyst) |
@@ -34,7 +33,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | SiamBAN (CVPR20)          | 0.514  |  40 (GTX 1080Ti)  |   [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
      | SiamCar (CVPR20)          | 0.507  |  52 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.07241.pdf)/[Code](https://github.com/ohhhyeahhh/SiamCAR) |   
      | SiamRPN++ (CVPR19)        | 0.496  |  35 (Titan XP)    |   [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
-<<<<<<< HEAD
      | ROAM++ (CVPR20)           | 0.447  |  20 (RTX 2080)    |  [Paper](https://arxiv.org/pdf/1907.12006.pdf)/[Code](https://github.com/skyoung/ROAM) |
      | SPLT (ICCV19)             | 0.426  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
      | MDNet (CVPR16)            | 0.397  |  5 (GTX 1080Ti)   |   [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
@@ -51,7 +49,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
-<<<<<<< HEAD
 	 | SiamMargin (VOT2019)      | 0.366  |  0.578  |  65     | [Paper](http://data.votchallenge.net/vot2019/presentations/vot2019_rt-tracker.pdf)/[Code](https://github.com/ShuaiBai623/DRNet)|
 	 | Ocean-Online (ECCV20)     | 0.350  |  0.594  |  0.316  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit)|
 =======
@@ -63,7 +60,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
     
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-<<<<<<< HEAD
      | Ocean-Online (ECCV20)     | 0.489  |  0.592  | 0.117   | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit)|
 	 | D3S (CVPR20)              | 0.489  |  0.640  | 0.150   | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
      | DROL-RPN (AAAI20)         | 0.489  |  0.613  | 0.112(24)| [Paper](https://arxiv.org/abs/1909.02959)/[Code](https://github.com/shallowtoil/DROL) |
@@ -91,7 +87,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.812  | 0.854   | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.758  | 0.816   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-<<<<<<< HEAD
      | MAML-FCOS (CVPR20)        | 0.757  | 0.822   | 42 (NVIDIA P100) | [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() |
      | SiamAttn (CVPR20)         | 0.752  | 0.817   | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | DROL-RPN (AAAI20)         | 0.746  | 0.817   | 30 (GTX 1080Ti)  | [Paper](https://arxiv.org/abs/1909.02959)/[Code](https://github.com/shallowtoil/DROL) |
@@ -113,7 +108,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-<<<<<<< HEAD
      | Ocean-Online (ECCV20)     | 0.611  | 58 (Tesla V100)  | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
 	 | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
 =======
@@ -138,7 +132,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | PrDiMP50 (CVPR20)         | 0.680  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.654  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-<<<<<<< HEAD
      | DROL-RPN (AAAI20)         | 0.652-0.855| 30 (GTX 1080Ti) | [Paper](https://arxiv.org/abs/1909.02959)/[Code](https://github.com/shallowtoil/DROL) |  
 	 | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
 =======
@@ -157,7 +150,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **OTB-100/OTB-2015:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-<<<<<<< HEAD
      | DROL-RPN (AAAI)           | 0.715  | 0.937  | 30 (GTX 1080Ti)  | [Paper](https://arxiv.org/abs/1909.02959)/[Code](https://github.com/shallowtoil/DROL) |
 	 | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
 =======
